@@ -1,7 +1,7 @@
 # **Cicada 3301 Chronology**
 
-This is my chronological organisation of cracking the cicada 3301 case.
-As a picture editor in the Director's Guild of Canada, 
+This is my chronological organisation for cracking the cicada 3301 case.
+As a screenwriter, director, composer, and picture editor in the Director's Guild of Canada, 
 I may not offer a lot in the world of cryptography, 
 but I believe I offer a lot in terms of 
 storytelling, editing, and the overall image aka "the big picture". 
@@ -22,7 +22,7 @@ Amen the void.
 
 **Next step:**
 
-🧩🔍[My first decryption  - 50.jpg "Babylonian Numerals"](https://github.com/MrKylePopovich/Cicada-3301-Chronology/blob/main/photos/cicada_3301_pg_50_Babylonian_Numerals.jpg)
+🧩🔍[My first decryption  - 50.jpg "Babylonian Numerals"](https://github.com/MrKylePopovich/Cicada-3301-Chronology/blob/main/photos/cicada_3301_50.jpg_Babylonian_Numerals.jpg)
 
 
 **Liber Primus YouTube Series "Cicada 3301 Chronology | 01-74.jpg Liber Primus Solved!:**
