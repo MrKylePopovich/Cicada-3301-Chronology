@@ -1,4 +1,4 @@
-# Cicada-3301-Chronology
+# **Cicada 3301 Chronology**
 
 This is my chronological organisation of the cicada 3301 case.
 As a picture editor in the Director's Guild of Canada, 
@@ -13,20 +13,19 @@ The Uncovering Cicada Wiki, Cicada Solvers, Scream314, 3301, and the entire cica
 
 Amen the void.
 
-[instagram](https://www.instagram.com/kylepopovich)
+📸 [instagram](https://www.instagram.com/kylepopovich)
 
-[discord](https://discord.gg/kH2WT2njWh)
+💻 [discord](https://discord.gg/kH2WT2njWh)
 
-Start here:
+**Start here:**
 
 [2026-01-10 - NOTES](https://github.com/MrKylePopovich/Cicada-3301-Chronology/blob/main/2026-01-10%20-%20Kyle's%20Notes)
 
 
-Next step: 
+**Next step:**
 
 [My first decryption  - 50.jpg "Babylonian Numerals"](https://github.com/MrKylePopovich/Cicada-3301-Chronology/blob/main/photos/cicada_3301_pg_50_Babylonian_Numerals.jpg)
 
 
-Liber Primus YouTube Series "Chronicle of Cicada 3301 | 01-74.jpg Liber Primus Solved!: 
-
-Coming soon... [Subscribe](https://www.youtube.com/user/MrKylePopovich)
+**Liber Primus YouTube Series "Cicada 3301 Chronology | 01-74.jpg Liber Primus Solved!:**
+📺 Coming soon... [Subscribe](https://www.youtube.com/user/MrKylePopovich)
