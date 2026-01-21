@@ -1,1 +1,0 @@
-<a href ="https://github.com/cicada-solvers/The-Complete-Cicada3301-Archive">Cicada Sovers' Github</a>

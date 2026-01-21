@@ -15,6 +15,19 @@
 ==================================================
 ===== THE TIMELINE: ==============================
 
+
+2012 - January 5th 
+
+image: 			final.jpg "Hello."
+text extract: 		TIBERIVS CLAVDIVS CAESAR says "lxxt>33m2mqkyv2gsq3q=w]O2ntk"
+hint: 			Caesar cipher
+decrypt:		http://i.imgur.com/m9sYK.jpg
+link:			"m9sYK.jpg" "WOOPS Just decoys"
+hint: 			Outguess (steganography software)
+Outguess result: 	reddit book code at http://www.reddit.com/r/a2e7j6ic78h0j
+Subreddit description:	a2e7j6ic78h0j7eiejd0120
+Book: 			
+
 2018 - May 19th
 
 LEMMiNO (5.87M subscribers)

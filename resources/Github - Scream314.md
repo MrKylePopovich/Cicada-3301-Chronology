@@ -1,1 +1,0 @@
-<a href ="https://github.com/scream314/cicada3301/tree/master">Scream314's Github</a>
