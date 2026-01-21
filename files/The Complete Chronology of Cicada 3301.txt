@@ -26,6 +26,8 @@ link:			"m9sYK.jpg" "WOOPS Just decoys"
 hint: 			Outguess (steganography software)
 Outguess result: 	reddit book code at http://www.reddit.com/r/a2e7j6ic78h0j
 Subreddit description:	a2e7j6ic78h0j7eiejd0120
+Subreddit header:	- ..
+			- -
 Book: 			
 
 2018 - May 19th
