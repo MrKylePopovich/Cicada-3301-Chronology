@@ -11,6 +11,6 @@ I am only a hobbyist puzzle solver somewhere in there.
 If I have seen anything it has been from standing on the shoulders of these giants: 
 The Uncovering Cicada Wiki, Cicada Solvers, Scream314, 3301, and the entire cicada community, thank you.
 
-(Start here) [https://github.com/MrKylePopovich/Cicada-3301-Chronology/blob/main/2026-01-10%20-%20Kyle's%20Notes]
+(Start here)[https://github.com/MrKylePopovich/Cicada-3301-Chronology/blob/main/2026-01-10%20-%20Kyle's%20Notes]
 
 Amen the void.
