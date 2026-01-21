@@ -23,7 +23,7 @@ Start here:
 
 Next step: 
 
-[My first decryption  - 50.jpg "Babylonian Numerals"] (https://github.com/MrKylePopovich/Cicada-3301-Chronology/blob/main/cicada_3301_pg_50_Babylonian_Numerals.jpg)
+[My first decryption  - 50.jpg "Babylonian Numerals"](https://github.com/MrKylePopovich/Cicada-3301-Chronology/blob/main/photos/cicada_3301_pg_50_Babylonian_Numerals.jpg)
 
 
 Liber Primus YouTube Series "Chronicle of Cicada 3301 | 01-74.jpg Liber Primus Solved!: 
