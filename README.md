@@ -13,9 +13,7 @@ The Uncovering Cicada Wiki, Cicada Solvers, Scream314, 3301, and the entire cica
 
 Amen the void.
 
-📸🎥 [instagram](https://www.instagram.com/kylepopovich)
-
-💻⌨ [discord](https://discord.gg/kH2WT2njWh)
+⚪    ⚪    ⚪
 
 **Start here:**
 
@@ -30,3 +28,7 @@ Amen the void.
 **Liber Primus YouTube Series "Cicada 3301 Chronology | 01-74.jpg Liber Primus Solved!:**
 
 📺🎭 Coming soon... [Subscribe](https://www.youtube.com/user/MrKylePopovich)
+
+📸🎥 [instagram](https://www.instagram.com/kylepopovich)
+
+💻⌨ [discord](https://discord.gg/kH2WT2njWh)
