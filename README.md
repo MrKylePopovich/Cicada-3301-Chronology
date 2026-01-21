@@ -17,7 +17,7 @@ Amen the void.
 
 **Start here:**
 
-📝💭[Kyle's Notes (last update: 2026-01-10)](https://github.com/MrKylePopovich/Cicada-3301-Chronology/blob/main/2026-01-10%20-%20Kyle's%20Notes)
+📝💭[Kyle's Notes (last update: 2026-01-20)](https://github.com/MrKylePopovich/Cicada-3301-Chronology/blob/main/2026-01-10%20-%20Kyle's%20Notes)
 
 
 **Next step:**
