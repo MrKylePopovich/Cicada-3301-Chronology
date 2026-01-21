@@ -1,7 +1,7 @@
 # **Cicada 3301 Chronology**
 
 This is my chronological organisation for cracking the cicada 3301 case.
-As a picture editor in the Director's Guild of Canada, 
+As a screenwriter, director, composer, and picture editor in the Director's Guild of Canada, 
 I may not offer a lot in the world of cryptography, 
 but I believe I offer a lot in terms of 
 storytelling, editing, and the overall image aka "the big picture". 
