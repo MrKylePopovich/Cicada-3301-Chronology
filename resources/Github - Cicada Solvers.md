@@ -1,1 +1,1 @@
-<a href ="https://github.com/cicada-solvers/The-Complete-Cicada3301-Archive"></a>
+<a href ="https://github.com/cicada-solvers/The-Complete-Cicada3301-Archive">https://github.com/cicada-solvers/The-Complete-Cicada3301-Archive</a>
