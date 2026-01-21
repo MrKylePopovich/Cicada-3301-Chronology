@@ -6,7 +6,8 @@ I may not offer a lot in the world of cryptography,
 but I believe I offer a lot in terms of 
 storytelling, editing, and the overall image aka "the big picture". 
 
-I'm a filmmaker first, music seconds, and graphic designer. I am only a hobbyist puzzle solver. 
+I'm a filmmaker first, musician second, and graphic designer third. 
+I am only a hobbyist puzzle solver somewhere in there. 
 If I have seen anything it has been from standing on the shoulders of these giants: 
 The Uncovering Cicada Wiki, Cicada Solvers, Scream314, 3301, and the entire cicada community, thank you.
 
