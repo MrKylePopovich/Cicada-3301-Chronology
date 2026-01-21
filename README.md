@@ -14,6 +14,7 @@ The Uncovering Cicada Wiki, Cicada Solvers, Scream314, 3301, and the entire cica
 Amen the void.
 
 [instagram](https://www.instagram.com/kylepopovich)
+
 [discord](https://discord.gg/kH2WT2njWh)
 
 Start here:
