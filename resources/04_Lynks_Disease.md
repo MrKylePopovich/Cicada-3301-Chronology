@@ -9,3 +9,6 @@ Lynks Disease:
 
 For information about LYnks disease PLEASE watch the show or WASH YOUR HANDS Or the web. 
 "You don't wanna get it, but you do wanna-- get rid of it, with clay" 
+
+Fake BBC News Article: 
+<a href ="https://web.archive.org/web/20150109003255/http://bbc-news.co.uk/examining-uncovering-cicada-3301/">Examining “Uncovering Cicada 3301</a>
