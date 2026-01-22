@@ -1,7 +1,7 @@
-=============================================================================================
-=============================================================================================
+==================================================
+==================================================
 
-===== The Complete Chronology of Cicada 3301 ================================================
+===== The Complete Chronology of Cicada 3301 =====
 
 --------------------------------------------------
 
@@ -12,22 +12,22 @@
    Artorias, Puck, TheClockworkBird, Nox Populi, 
    and the entire cicada community, thank you.
 
-=============================================================================================
-===== THE TIMELINE: =========================================================================
+==================================================
+===== THE TIMELINE: ==============================
 
 
 2012 - January 5th 
 
-image: 			final.jpg "Hello."
-text extract: 		TIBERIVS CLAVDIVS CAESAR says "lxxt>33m2mqkyv2gsq3q=w]O2ntk"
-hint: 			Caesar cipher
-decrypt:		http://i.imgur.com/m9sYK.jpg
-link:			"m9sYK.jpg" "WOOPS Just decoys"
-hint: 			Outguess (steganography software)
-Outguess result: 	reddit book code at http://www.reddit.com/r/a2e7j6ic78h0j
+image: 					final.jpg "Hello."
+text extract: 			TIBERIVS CLAVDIVS CAESAR says "lxxt>33m2mqkyv2gsq3q=w]O2ntk"
+hint: 					Caesar cipher
+decrypt:				http://i.imgur.com/m9sYK.jpg
+link:					"m9sYK.jpg" "WOOPS Just decoys"
+hint: 					Outguess (steganography software)
+Outguess result: 		reddit book code at http://www.reddit.com/r/a2e7j6ic78h0j
 Subreddit description:	a2e7j6ic78h0j7eiejd0120
-Subreddit header:	- ..
-			- -
+Subreddit header:		- ..
+						- -
 Book: 			
 
 2018 - May 19th
@@ -89,12 +89,15 @@ https://www.youtube.com/watch?v=Seej1Kq5c20
 
 Sumsub (479K subscribers)
 Nostalgia Nerd (582K subscribers)
-
-
+Meet The Man That Solved Cicada 3301 Challenge!
 https://www.youtube.com/watch?v=Wt8rldAjzGQ
-
-
 11k views  
+
+Gematria Primus 2026 by Kyle Popovich 
+https://github.com/MrKylePopovich/Cicada-3301-Chronology/blob/main/photos/cicada_3301_Gematria_Primus_2026.jpg
+	- Fixes Rune and Value orientations of the right side of the 2014 Gematria Primus 
+	- Adds back the prime values back from the 2013 (original) Gematria Primus
+	- Adds Modulus 29 from Uncovering Cicada Wiki ("How the solved pages were solved")
 
 ===== END OF LINE. ===============================
 ==================================================
