@@ -18,7 +18,9 @@ Amen the void.
 # **Start here:**
 
 📝💭[Kyle's Notes (last update: 2026-01-22)](https://github.com/MrKylePopovich/Cicada-3301-Chronology/blob/main/files/Kyle's%20Notes.txt)
+
 📝⏰[The Complete Chronology](https://github.com/MrKylePopovich/Cicada-3301-Chronology/blob/main/files/The%20Complete%20Chronology%20of%20Cicada%203301.txt)
+
 📝🧩Coming soon: **Liber Primus Decoded**
 
 **Next step:**
