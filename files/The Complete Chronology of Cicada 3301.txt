@@ -18,19 +18,63 @@
 ===== THE TIMELINE: ==============================
 
 
-2012 - January 5th 
+--------------------------------------------------
+2012 - January 5th -------------------------------
 
-image: 					final.jpg "Hello."
-text extract: 			TIBERIVS CLAVDIVS CAESAR says "lxxt>33m2mqkyv2gsq3q=w]O2ntk"
-hint: 					Caesar cipher
-decrypt:				http://i.imgur.com/m9sYK.jpg
-link:					"m9sYK.jpg" "WOOPS Just decoys"
-hint: 					Outguess (steganography software)
-Outguess result: 		reddit book code at http://www.reddit.com/r/a2e7j6ic78h0j
-Subreddit description:	a2e7j6ic78h0j7eiejd0120
-Subreddit header:		- ..
-						- -
+
+PUZZLE 01 ----------------------------------------
+
+image: 			final.jpg 	"Hello."
+text extract: 		TIBERIVS CLAVDIVS CAESAR says "lxxt>33m2mqkyv2gsq3q=w]O2ntk"
+hint: 			Caesar Cipher - Shift by 4
+decrypt:		>4 (<22) http>33i2imgur2com3m=s]K2jpg
+			=        http://i.imgur.com/m=s]K.jpg
+link:			=	 http://i.imgur.com/m9sYK.jpg (EDITOR: unsure of '=' = 9 and ']' = y ?) 
+
+PUZZLE 01 - CLUE
+image: 			"m9sYK.jpg" 	"WOOPS Just decoys"
+hint: 			Outguess (steganography software)
+
+PUZZLE 01 - ANSWER 
+image: 			final.jpg 	"Hello."
+Outguess result: 	[...] 		"reddit book code at http://www.reddit.com/r/a2e7j6ic78h0j"
+
+
+PUZZLE 02 ----------------------------------------
+
+Link: 			http://www.reddit.com/r/a2e7j6ic78h0j
+			(https://web.archive.org/web/20120114195636/http://www.reddit.com/r/a2e7j6ic78h0j)
+Subreddit description:	a2e7j6ic78h0j7eiejd0120			
+
+PUZZLE 02 - CLUE
+Subreddit header:	        ....  ..  ...  ..  ..  ...  .. ....
+			=   ..   ═    -    ☰   =   -    -   ☰   ☰
+Mayan conversion	10  2    14   7   18   12  7    8   
+Truncated		102147181278
 Book: 			
+
+
+
+
+
+
+2014 - January 6th - 1:59 AM
+
+https://x.com/1231507051321
+
+1231507051321 @1231507051321
+https://imgur.com/its-started-zN4h51m
+
+7:59am - 6 Jan 14
+7 5 9    6  1  1 4  
+7 + 5 + 6 + 1 + 14 = 33
+
+	Note:
+	Not a prime number, but commonly found in past 3301, and 1033 decryptions 
+
+
+
+
 
 2018 - May 19th
 
