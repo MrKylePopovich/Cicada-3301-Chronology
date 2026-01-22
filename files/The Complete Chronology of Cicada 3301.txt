@@ -9,7 +9,7 @@
 
 		Special thanks to: 
 
-   The Uncovering Cicada Wiki, Cicada Solvers, 
+   Cicada Solvers, The Uncovering Cicada Wiki, 
    Scream314, Joel Eriksson, 3301, Taiiwo, rtdk,
    Artorias, Puck, TheClockworkBird, Nox Populi, 
    and the entire cicada community, thank you.
