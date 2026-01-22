@@ -10,23 +10,24 @@
 		Special thanks to: 
 
    Cicada Solvers, The Uncovering Cicada Wiki, 
-   Scream314, Joel Eriksson, 3301, Taiiwo, rtdk,
+   Scream314, Joel Eriksson, 3301, Taiiwo Llort,  
    Artorias, Puck, TheClockworkBird, Nox Populi, 
-   and the entire cicada community, thank you.
+   rtdk, and the entire community, thank you.
 
 ==================================================
 ===== THE TIMELINE: ==============================
 
 
 --------------------------------------------------
-2012 - January 4th -------------------------------
+2012 - January 4th (unknown time) ----------------
 
 
 PUZZLE 01 ----------------------------------------
 
-link: 			
+link: 			4chan Paranomal "/x/" and Random "/b/" Boards [links: unknown?] 
 image: 			final.jpg 	"Hello."
-direction: 		"a message hiddenin this image will lead you on the road to finding us. We look forward... Good luck"
+direction: 				a message hidden in this image will lead you on the road to finding us. 
+					We look forward [...] Good luck"
 text extract: 		TIBERIVS CLAVDIVS CAESAR says "lxxt>33m2mqkyv2gsq3q=w]O2ntk"
 hint: 			Caesar Cipher - Shift by 4
 decrypt:		>4 (<22) http>33i2imgur2com3m=s]K2jpg
@@ -42,9 +43,14 @@ hint: 			Outguess (steganography software)
 PUZZLE 01.2 - CLUE #2  
 image: 			final.jpg 	"Hello."
 Outguess result: 	Here is a book code. [...]  "To find the book, and more go to http://www.reddit.com/r/a2e7j6ic78h0j/"
+result: 		"Mabinogion by Anonymous" english translated version by Charlotte Guest 
 
-PUZZLE 01.2 - CLUE #3
+PUZZLE 01.3 - CLUE #3
+result:			Call us at us tele phone numBer two one four three nine oh nine six oh eight
+Phone number:		+1 214 309 9608
 formula: 		3301 x 509 px x 503 px = 845145127 + .com
+
+PUZZLE 01.2 - CLUE #4
 link:			845145127.com
 
 
@@ -57,15 +63,14 @@ Link: 			http://www.reddit.com/r/a2e7j6ic78h0j
 			created by CageThrottleUs
 			a community for 10 days (2012-01-04)
 
-
-PUZZLE 02.1 - CLUE
+PUZZLE 02.1 - CLUE #5
 Subreddit header:	        ....  ..  ....  .  ...   ..  ..  ...  ..    ....
 			=   ..   ═    -    ☰    -   ☰    =   -    -   ☰  👁  ☰
 Mayan conversion	10  2    14   7    19   6   18   12   7   8   17  0  19
 Truncated		10 2 14 7 19 6 18 12 7 8 17 0 19
 
 
-PUZZLE 02.2 - CLUE
+PUZZLE 02.2 - CLUE #6
 Subreddit description:	a2e7j6ic78h0j7eiejd0120			
 Question:		How was the A = 10 subsitution cipher discovered?
 Substitution cipher:	A=10 (0=0, 1=1, etc., a=10, b=11, etc.)
@@ -77,7 +82,7 @@ decryption:		kcohtgsmhirathosotnabca
 Vigenère cipher: 	each letter of the plaintext is encoded with a different Caesar cipher
 decryption:		
 
-PUZZLE 02.3 - CLUE 
+PUZZLE 02.3 - CLUE #7
 redditor: 		CageThrottleUs 
 Anagram: 		CharlotteGuest
 information:		Born	Charlotte Elizabeth Bertie
@@ -100,6 +105,7 @@ information:		Born	Charlotte Elizabeth Bertie
 --------------------------------------------------
 2012 - January 4th - 11:01:31 EST ----------------
 
+PUZZLE 02.4 - CLUE #7
 Post: 			https://www.reddit.com/r/a2e7j6ic78h0j/comments/o3hoi/welcome/
 Title:			"Welcome"
 link:			https://imgur.com/welcome-KXLOP
@@ -115,7 +121,7 @@ Outguess:			Hash: SHA1
 --------------------------------------------------
 2012 - January 7th - 10:27:45 UTC ----------------
 
-PUZZLE 02.3 - CLUE 
+PUZZLE 02.3 - CLUE #8
 redditor: 		ImagoOnNib 
 Anagram: 		Mabinogion
 Information: 		Book (11th–13th, Middle Welsh) written by Anonymous
