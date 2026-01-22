@@ -21,14 +21,18 @@ Amen the void.
 
 📝⏰[The Complete Chronology](https://github.com/MrKylePopovich/Cicada-3301-Chronology/blob/main/files/The%20Complete%20Chronology%20of%20Cicada%203301.txt)
 
-📝🧩Coming soon: **Liber Primus Decoded**
+# **Next steps:**
 
-**Next step:**
 
 *My Photos to Help Solve the Mystery!"
-🧩[My first decryption  - 50.jpg "Babylonian Numerals"](https://github.com/MrKylePopovich/Cicada-3301-Chronology/blob/main/photos/cicada_3301_50.jpg_Babylonian_Numerals_v2.jpg)
 
 🔍[Gematria Primus 2026](https://github.com/MrKylePopovich/Cicada-3301-Chronology/blob/main/photos/cicada_3301_Gematria_Primus_2026.jpg)
+
+🧩[My first decryption  - 50.jpg "Babylonian Numerals"](https://github.com/MrKylePopovich/Cicada-3301-Chronology/blob/main/photos/cicada_3301_50.jpg_Babylonian_Numerals_v2.jpg)
+
+
+# **What's Next?:**
+📝🧩Coming soon: **Liber Primus Decoded**
 
 **Liber Primus YouTube Series "Cicada 3301 Chronology | 01-74.jpg Liber Primus Solved!:**
 
