@@ -97,9 +97,11 @@ https://www.youtube.com/watch?v=Wt8rldAjzGQ
 
 Gematria Primus 2026 by Kyle Popovich 
 https://github.com/MrKylePopovich/Cicada-3301-Chronology/blob/main/photos/cicada_3301_Gematria_Primus_2026.jpg
-	- Fixes Rune and Value orientations of the right side of the 2014 Gematria Primus 
+	- Retains Atbash results from Gematria Primus 2014
+	- Fixes orientations of Atbash Rune and Value results 
 	- Adds back the prime values back from the 2013 (original) Gematria Primus
 	- Adds Modulus 29 from Uncovering Cicada Wiki ("How the solved pages were solved")
+	- Adds Modulus Value for Atbash cipher results 
 
 ===== END OF LINE. ===============================
 ==================================================
