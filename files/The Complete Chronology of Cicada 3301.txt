@@ -19,39 +19,162 @@
 
 
 --------------------------------------------------
-2012 - January 5th -------------------------------
+2012 - January 4th -------------------------------
 
 
 PUZZLE 01 ----------------------------------------
 
+link: 			
 image: 			final.jpg 	"Hello."
+direction: 		"a message hiddenin this image will lead you on the road to finding us. We look forward... Good luck"
 text extract: 		TIBERIVS CLAVDIVS CAESAR says "lxxt>33m2mqkyv2gsq3q=w]O2ntk"
 hint: 			Caesar Cipher - Shift by 4
 decrypt:		>4 (<22) http>33i2imgur2com3m=s]K2jpg
 			=        http://i.imgur.com/m=s]K.jpg
-link:			=	 http://i.imgur.com/m9sYK.jpg (EDITOR: unsure of '=' = 9 and ']' = y ?) 
+link:			=	 http://i.imgur.com/m9sYK.jpg 
 
-PUZZLE 01 - CLUE
+						KYLE'S NOTE: unsure of '=' = 9 and ']' = y ?
+
+PUZZLE 01.1 - CLUE #1
 image: 			"m9sYK.jpg" 	"WOOPS Just decoys"
 hint: 			Outguess (steganography software)
 
-PUZZLE 01 - ANSWER 
+PUZZLE 01.2 - CLUE #2  
 image: 			final.jpg 	"Hello."
-Outguess result: 	[...] 		"reddit book code at http://www.reddit.com/r/a2e7j6ic78h0j"
+Outguess result: 	Here is a book code. [...]  "To find the book, and more go to http://www.reddit.com/r/a2e7j6ic78h0j/"
+
+PUZZLE 01.2 - CLUE #3
+formula: 		3301 x 509 px x 503 px = 845145127 + .com
+link:			845145127.com
+
 
 
 PUZZLE 02 ----------------------------------------
 
 Link: 			http://www.reddit.com/r/a2e7j6ic78h0j
-			(https://web.archive.org/web/20120114195636/http://www.reddit.com/r/a2e7j6ic78h0j)
-Subreddit description:	a2e7j6ic78h0j7eiejd0120			
+			[https://web.archive.org/web/20120114195636/http://www.reddit.com/r/a2e7j6ic78h0j]
+			Verify: 7A35090F
+			created by CageThrottleUs
+			a community for 10 days (2012-01-04)
 
-PUZZLE 02 - CLUE
-Subreddit header:	        ....  ..  ...  ..  ..  ...  .. ....
-			=   ..   ═    -    ☰   =   -    -   ☰   ☰
-Mayan conversion	10  2    14   7   18   12  7    8   
-Truncated		102147181278
-Book: 			
+
+PUZZLE 02.1 - CLUE
+Subreddit header:	        ....  ..  ....  .  ...   ..  ..  ...  ..    ....
+			=   ..   ═    -    ☰    -   ☰    =   -    -   ☰  👁  ☰
+Mayan conversion	10  2    14   7    19   6   18   12   7   8   17  0  19
+Truncated		10 2 14 7 19 6 18 12 7 8 17 0 19
+
+
+PUZZLE 02.2 - CLUE
+Subreddit description:	a2e7j6ic78h0j7eiejd0120			
+Question:		How was the A = 10 subsitution cipher discovered?
+Substitution cipher:	A=10 (0=0, 1=1, etc., a=10, b=11, etc.)
+decryption:		10 2 14 7 19 6 18 12 7 8 17 0 19 7 14 18 14 19 13 0 1 2 0
+separated:		a  2 e  7 j  6 i  c  7 8 h  0 j  7 e  i  e  j  d  0 1 2 0
+Question:		How was the A = 0 subsitution cipher discovered?
+Substitution cipher:	A=0		
+decryption:		kcohtgsmhirathosotnabca
+Vigenère cipher: 	each letter of the plaintext is encoded with a different Caesar cipher
+decryption:		
+
+PUZZLE 02.3 - CLUE 
+redditor: 		CageThrottleUs 
+Anagram: 		CharlotteGuest
+information:		Born	Charlotte Elizabeth Bertie
+				19 May 1812
+				Uffington, Lincolnshire, England
+			Spouses	John Josiah Guest, 1st Baronet
+​				​(m. 1833⁠–1852)​
+				Charles Schreiber
+​				​(m. 1855⁠–1884)
+			Died	15 January 1895 (age 82)
+				Canford Manor, Dorset, England
+			Ocupation: Translator, Businesswoman
+
+						KYLE'S NOTE: 
+						Charlotte's resting name is Schreiber, 
+						So 3301 definetly meant her name to reference the book.  
+						Her life details seem irrelevant to 3301. 
+
+
+--------------------------------------------------
+2012 - January 4th - 11:01:31 EST ----------------
+
+Post: 			https://www.reddit.com/r/a2e7j6ic78h0j/comments/o3hoi/welcome/
+Title:			"Welcome"
+link:			https://imgur.com/welcome-KXLOP
+Outguess:			Hash: SHA1
+				From here on out, we will cryptographically sign all messages with this key. 
+				available on MIT keyservers. Key ID 7A35090F, as posted in  a2e7j6ic78h0j.
+				Patience is a virtue. 
+				Good luck. 
+				3301
+
+						KYLE'S NOTE: This is a confirmation clue.  
+	
+--------------------------------------------------
+2012 - January 7th - 10:27:45 UTC ----------------
+
+PUZZLE 02.3 - CLUE 
+redditor: 		ImagoOnNib 
+Anagram: 		Mabinogion
+Information: 		Book (11th–13th, Middle Welsh) written by Anonymous
+Post: 			"Problems?"
+			https://old.reddit.com/r/a2e7j6ic78h0j/comments/o6n9a/problems/
+image: 			http://i.imgur.com/8D7hN.jpg
+Outguess:			Hash: SHA1
+				The key has always been right in front of your eyes. 
+				This isn't the search for the Holy Grail. 
+				Stop making it more difficult thank it is. 							
+				Good luck. 
+				3301
+						KYLE'S NOTE: 
+						3301 must have been monitoring 4chan and reddit.
+						This feels like frustration at solvers being slow?  
+						Problem? is a troll meme. 	
+PUZZLE 02.3 - ANSWER 
+Book: 			"The Mabinogion" english translated version by Lady Charlotte Guest 
+			[https://sacred-texts.com/neu/celt/mab/mab05.htm]
+published:		c. 1838-1845 in in Wales, Middle Welsh. Described as the "Matter of Britain" 
+source: 		two main manuscripts and earlier fragments, created c. 1350–1410
+information:		Made into one volume in 1877.
+			Contains eleven stories offering drama, philosophy, romance, tragedy, fantasy and humour.
+			The Four Branches of the Mabinogi or Pedair Cainc Y Mabinogi 
+			The Mabinogi is generally agreed to be a single work in four parts, or "branches." 
+
+result:			Call us at us tele phone numBer two one four three nine oh nine six oh eight
+
+Phone number:		+1 214 309 9608
+
+Answering Machine: 	Very good. You have done well. 
+			There are three prime numbers associated with the original final.jpg image.
+			3301 is one of them. You will have to find the other two. 
+			Multiply all three of these numbers together, and add a .com on the end to find the next step. 
+			Good Luck. Goodbye.
+formula: 		3301 x 509 px x 503 px = 845145127 + .com
+link:			845145127.com
+
+
+
+
+
+     Found our symbol at the location nearest to you:
+     52.216802, 21.018334
+     48.85057059876962, 2.406892329454422
+     48.85030144151387,2.407538741827011
+     47.664196,  -122.313301
+     47.637520, -122.346277
+     47.622993, -122.312576
+     37.5196666666667, 126.995
+     33.966808, -117.650488
+     29.909098706850486 -89.99312818050384
+     25.684702, -80.441289
+     21.584069, -158.104211
+     - -33.90281, 151.18421
+     36.0665472222222, -94.1726416666667
+     37.577070, 126.813122
+
+
 
 
 
@@ -76,6 +199,12 @@ https://imgur.com/its-started-zN4h51m
 
 
 
+
+
+
+
+
+
 2018 - May 19th
 
 LEMMiNO (5.87M subscribers)
@@ -91,6 +220,15 @@ DEF CON 26 CRYPTO AND PRIVACY VILLAGE - Cicada What Puzzles Can Teach Us About C
 https://www.youtube.com/watch?v=sVU4k2gRe_Y
 12,322 views
 
+
+2019 - Aug 14th 
+Great Big Story		(6.3M subscribers)
+Cracking the Code of Cicada 3301| EPISODE 1 (unlisted)
+https://youtu.be/RatbYqc0-jE?list=PL2mziOCk6AUF1Nlz82lhMPhjf5EBA53eW
+4,824,983 views		KYLE'S ISSUES: 
+				- The Date was January 4th, not 5th. 
+				- The image was called final.jpg, not image.jog. 
+				(I'm 30 seconds in and there's already two facts wrong.)
 
 2022 - April 22nd
 
@@ -126,9 +264,13 @@ https://www.youtube.com/watch?v=ED1PHiJmBvw
 2025 - March 9th
 
 CicadaCast 		(541 subscribers)
-Cicada 3301: Cracking The Liber Primus After 10 Years
+Cicada 3301: Cracking The Liber Primus After 10 Years "56 out of 58 pages still unsolved"
 https://www.youtube.com/watch?v=Seej1Kq5c20
 18k views  
+	- used wrong William Blake photo (not british museum)
+
+			page (58.jpg) 128 characters 
+			
 
 2025 - October 3th
 

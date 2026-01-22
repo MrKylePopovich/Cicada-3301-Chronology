@@ -1,0 +1,80 @@
+----------------------------------------------------------------
+----- 3301 -----------------------------------------------------
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+----- terms and ciphers 
+----------------------------------------------------------------
+
+SHA-0		(not prime)	1993
+SHA-1 		(not prime)	1995	Bit Length: 160 bits			(not prime)	
+					Hexadecimal Length: 40 characters	(not prime)	
+	- Secure Hash Algortihm		(e.g., da39a3ee5e6b4b0d3255bfef95601890afd80709) 
+	- takes an input and produces a fixed-length output of 160 bits (20-byte) hash values 
+	- hash values aka a message digest are typically a 40-character hexadecimal string. 
+	- Each hexadecimal character = 4 bits. 160 bits divided by 4 bits/character = 40 characters, 
+	a consistent length for any input data. 
+	- broken in 2005 (https://www.schneier.com/blog/archives/2005/02/sha1_broken.html)
+	- NIST deprecated use in 2011, and digital signatures in 2013, and declared phase out by 2030
+	- dropped from firefox abnd google 2017 
+	- Microsoft discontinued SHA-1 code signing support for Windows Update on August 3, 2020
+
+SHA-2		(PRIME)		2001
+SHA-3		(PRIME)		2015
+SHA-512		(not prime)	
+SHA3-512	(not prime)
+
+
+BLAKE		... William Blake related			
+	
+	-  a cryptographic hash function based on Daniel J. Bernstein's ChaCha stream cipher, 
+	but an altered copy of the input block = XORed with round constants, added before each ChaCha round.
+	- Like SHA-2, there are two variants differing in the word size.
+		- one that uses 32-bit words, used for computing hashes up to 256 bits long
+		- one that uses 64-bit words, used for computing hashes up to 512 bits long
+	- The core block transformation combines 16 words of input with 16 working variables, 
+	but only 8 words (256 or 512 bits) are preserved between blocks.
+	- It uses a table of 16 constant words (the leading 512 or 1024 bits of the fractional part of π), 	and a table of 10 16-element permutations.
+	- The 64-bit version (which does not exist in ChaCha) is identical, 
+	but the rotation amounts are 32, 25, 16 and 11, and the number of rounds is increased to 16.
+
+BLAKE2		(PRIME)		2012
+BLAKE2b		(PRIME)		
+BLAKE3 		(PRIME)		2020
+BLAKE-224	(not prime, but William Blake related)	32-bit words, produces digest size of 224 bits
+BLAKE-256	(not prime, but William Blake related)	32-bit words, produces digest size of 256 bits
+BLAKE-384	(not prime, but William Blake related)	64-bit words, produces digest size of 384 bits
+BLAKE-512	(not prime, but William Blake related)	64-bit words, produces digest size of 512 bits
+
+
+
+
+
+MD5		(PRIME)
+MD6		(not prime)
+
+
+----------------------------------------------------------------
+----- other securites:
+
+
+Daniel J. Bernstein	
+(born October 29, 1971) American mathematician, cryptologist, and computer scientist.
+
+Poly1305	(not prime)				2002
+	- takes a 16-byte secret key [r] and an [L]-byte message [m] and returns a 16-byte hash
+Curve25519	(not prime)				
+	- offers 128 bits of security (256-bit key size)
+Salsa20		(not prime)				2008			
+	- Key sizes are 128 or 256 bits, State size are 512 bits.
+	- internal state is sixteen 32-bit words as a 4×4 matrix.
+	- initial state is eight words of key (x), two words of stream position (y), 
+	two words of nonce (essentially additional stream position bits) (x), and four fixed words (i).
+	This is an example of a nothing-up-my-sleeve number. 
+	The core operation in Salsa20 is the quarter-round QR(a, b, c, d) 
+	that takes a four-word input and produces a four-word output.
+	https://en.wikipedia.org/wiki/Salsa20
+ChaCha		... 
+	- Daniel J. Bernstein
+
+
