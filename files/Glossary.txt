@@ -54,6 +54,27 @@ MD5		(PRIME)
 MD6		(not prime)
 
 
+
+
+Outguess
+a steganography tool originally developed by Niels Provos, programmed in C.
+designed to hide information in JPEG images while preserving statistical properties to evade detection. 
+"available under a BSD software license. Completely free for any use including commercial. Developed in Germany."
+	1999 July 5 	version 0.1 - Initial release (Unix-like)
+	1999 Aug 6 	version 0.13b - beta version
+	2001 Feb 	version 0.2 - stable (not backward compatible).
+	2013: 		"OutGuess Rebirth" (OGR) fork released by Laurent Perch with a GUI for Windows.
+	2013 June: 	Version 1.0.8 of the Rebirth fork released.
+	2015 Sept: 	Official development of the original OutGuess was abandoned and the site was shut down.
+	2018 - 2021: 	New repository (resurrecting-open-source-projects) released versions 0.2 to 0.4.
+	2021 Sept 2: 	Latest stable release (0.4) in the new repository. 
+
+
+
+
+
+
+
 ----------------------------------------------------------------
 ----- other securites:
 

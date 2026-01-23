@@ -25,7 +25,8 @@
 PUZZLE 01 ----------------------------------------
 
 link: 			4chan Paranomal "/x/" and Random "/b/" Boards [links: unknown?] 
-image: 			final.jpg 	"Hello."
+image:			m9sYK.jpg (referred to as final.jpg in the +1 214 309 9608 Dallas, Texas phone call recording)	
+					"Hello."
 direction: 				a message hidden in this image will lead you on the road to finding us. 
 					We look forward [...] Good luck"
 text extract: 		TIBERIVS CLAVDIVS CAESAR says "lxxt>33m2mqkyv2gsq3q=w]O2ntk"
@@ -34,8 +35,13 @@ decrypt:		>4 (<22) http>33i2imgur2com3m=s]K2jpg
 			=        http://i.imgur.com/m=s]K.jpg
 link:			=	 http://i.imgur.com/m9sYK.jpg 
 
-						KYLE'S NOTE: unsure of '=' = 9 and ']' = y ?
-
+				KYLE'S NOTES: 
+				#1 unsure of '=' = 9 and ']' = y ?
+				#2 might have been a repost to 4chan, as the image name changed...
+				#3 might have posted to 4chan, and it automatically changes, and 3301 forgot/didn't know?
+				#4 4chan was very new and very popular for being anonymous in 2012.		
+				#5 all photos were later posted on imgur, reddit or twitter, never again on 4chan... 
+			
 PUZZLE 01.1 - CLUE #1
 image: 			"m9sYK.jpg" 	"WOOPS Just decoys"
 hint: 			Outguess (steganography software)
@@ -47,7 +53,7 @@ result: 		"Mabinogion by Anonymous" english translated version by Charlotte Gues
 
 PUZZLE 01.3 - CLUE #3
 result:			Call us at us tele phone numBer two one four three nine oh nine six oh eight
-Phone number:		+1 214 309 9608
+Phone number:		+1 214 309 9608 (Area Code: Dallas, Texas)
 formula: 		3301 x 509 px x 503 px = 845145127 + .com
 
 PUZZLE 01.2 - CLUE #4
@@ -116,7 +122,9 @@ Outguess:			Hash: SHA1
 				Good luck. 
 				3301
 
-						KYLE'S NOTE: This is a confirmation clue.  
+						KYLE'S NOTES: 
+							#1 This is a confirmation clue.  
+							#2 This is the first use of 3301's PGP key.
 	
 --------------------------------------------------
 2012 - January 7th - 10:27:45 UTC ----------------
@@ -196,10 +204,7 @@ https://imgur.com/its-started-zN4h51m
 
 7:59am - 6 Jan 14
 7 5 9    6  1  1 4  
-7 + 5 + 6 + 1 + 14 = 33
-
-	Note:
-	Not a prime number, but commonly found in past 3301, and 1033 decryptions 
+7 + 5 + 6 + 1 + 14 = 33	(Note: Not a prime number, but commonly found in past 3301, and 1033 decryptions)
 
 
 
