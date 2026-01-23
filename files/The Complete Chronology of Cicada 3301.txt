@@ -3,7 +3,7 @@
 
 ===== The Complete Chronology of Cicada 3301 =====
 
-  (a work-in-progress, last updarte: 2026-01-22)
+  (a work-in-progress, last update: 2026-01-23)
 
 --------------------------------------------------
 
@@ -17,6 +17,17 @@
 ==================================================
 ===== THE TIMELINE: ==============================
 
+
+cicada_3301_2012-01-04_final.jpg
+
+
+
+
+
+
+
+==================================================
+===== THE COMPLETE CHRONOLOGY: ===================
 
 --------------------------------------------------
 2012 - January 4th (unknown time) ----------------
@@ -245,6 +256,53 @@ NSW 2043, Australia 		FOUND
 
 
 
+cicada_3301_2012-01-09_final.jpg_03a_316744223127_Outguess
+
+	One message was a poem ("Agrippa" by William Gibson) and quickly discovered, 
+	the code was applied and this resulted in an onion location (sq6wmgv2zcsrix6t.onion)
+
+
+
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+ 
+A poem of fading death, named for a king
+Meant to be read only once and vanish
+Alas, it could not remain unseen.
+ 
+1:5						s
+152:24						q
+the product of the first two primes		6 (=2x3)
+14:13						w
+7:36						m
+12:10						g
+7:16						v
+24:3						2
+271:22						z
+10:7						c
+13:28						s	
+12:7						r	
+86:17						t
+93:14						x
+the product of the first two primes		6 (=2x3) 		
+16:7						t
+96:4						.
+19:13						o
+47:2						n
+71:22						i
+75:9						o
+77:4						n		
+ 
+You've shared too much to this point.  We want the best,  
+not the followers.  Thus, the first few there will receive
+the prize.
+ 
+Good luck.
+ 
+3301
+-----BEGIN PGP SIGNATURE-----
+[...]
 
 
 
