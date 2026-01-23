@@ -26,6 +26,7 @@ PUZZLE 01 ----------------------------------------
 
 link: 			4chan Paranomal "/x/" and Random "/b/" Boards [links: unknown?] 
 image:			m9sYK.jpg (referred to as final.jpg in the +1 214 309 9608 Dallas, Texas phone call recording)	
+font:			Futura (I use "Futura LT Paneuropean Medium", to fit the british theme).
 					"Hello."
 direction: 				a message hidden in this image will lead you on the road to finding us. 
 					We look forward [...] Good luck"
@@ -43,8 +44,15 @@ link:			=	 http://i.imgur.com/m9sYK.jpg
 				#5 all photos were later posted on imgur, reddit or twitter, never again on 4chan... 
 			
 PUZZLE 01.1 - CLUE #1
-image: 			"m9sYK.jpg" 	"WOOPS Just decoys"
-hint: 			Outguess (steganography software)
+image: 			"m9sYK.jpg" 	
+source: 		blackduck-decoy.jpg (2011-03-22, autumnwings.com, and frostwaterfoul.net)
+					WOOPS Just decoys this way.	
+					Looks like you can't guess how
+					to get the message
+					out.
+hint: 			[guess] how to get the message [out].
+clue:			OutGuess (steganography software, more in the glossary.txt)
+
 
 PUZZLE 01.2 - CLUE #2  
 image: 			final.jpg 	"Hello."
@@ -167,12 +175,22 @@ Answering Machine: 	Very good. You have done well.
 			Good Luck. Goodbye.
 formula: 		3301 x 509 px x 503 px = 845145127 + .com
 link:			845145127.com
+image:			cicada.jpg
+Outguess:		You have done well to come this far. 
+			Patience is a virtue. 
+			Check back at 17:00 on Monday, 9 January 2012 UTC 
+			3301
+						KYLE'S NOTE: 
+						#1 UTC Matches the time zones from Twitter, and Reddit posts! 
+						#2 ImagoOnNib is UTC, ThrottleOnUs is EST...
 
 
+--------------------------------------------------
+2012 - January 9th - 05:00:00 PM UTC ------------
 
+(backup: http://web.archive.org/web/20150624035446/https://net-netz-blog.de/845145127.htm)
 
-
-     Found our symbol at the location nearest to you:
+     Find our symbol at the location nearest to you:
      52.216802, 21.018334
      48.85057059876962, 2.406892329454422
      48.85030144151387,2.407538741827011
@@ -191,11 +209,57 @@ link:			845145127.com
 
 
 
+52.216802,          21.018334          --- Oleandrów 6, 01-001 Warsaw, Poland FOUND
+48.85057059876962,  2.406892329454422  --- 89-91 Rue de la Plaine, 75020 Paris, France FOUND
+48.85030144151387,  2.407538741827011  --- 36 Rue des Maraîchers, 75020 Paris, France
+47.664196,          -122.313301        --- 4739 University Way NE, Seattle, WA 98105, USA
+47.637520,          -122.346277        --- 514 Crockett St, Seattle, WA 98109, USA *
+47.622993,          -122.312576        --- 428 15th Ave E, Seattle, WA 98112, USA *
+37.577070,          126.813122         --- South Korea, Seoul, Gangseo-gu, Banghwa-dong, 830-8 *
+37.5196666666667,   126.995            --- South Korea, Seoul, Yongsan-gu, Seobinggo-dong, 287-1 *
+36.0665472222222,   -94.1726416666667  --- 853-899 W Dickson St, University of Arkansas, Fayetteville, AR 72701, USA FOUND
+33.966808,          -117.650488        --- 15717-15735 Euclid Ave, Chino, CA 91708, USA *
+29.909098706850486, -89.99312818050384 --- State Highway 407, New Orleans, LA 70131, USA *
+25.684702,          -80.441289         --- 8718-8798 SW 152nd Ave, Miami, FL 33193, USA FOUND
+21.584069,          -158.104211        --- 66-420 Kamehameha Hwy, Haleiwa, HI 96712, USA *
+-33.90281,          151.18421          --- 143 George St, Erskineville NSW 2043, Australia FOUND
+
+
+Warsaw, Poland 			FOUND
+Paris, France 			FOUND
+Paris, France
+Seattle, WA 98105, USA
+Seattle, WA 98109, USA 		*
+Seattle, WA 98112, USA 		*
+South Korea, Seoul,
+South Korea, Seoul,
+Fayetteville, AR 72701, USA 	FOUND
+Chino, CA 91708, USA 		*
+New Orleans, LA 70131, USA 	*
+Miami, FL 33193, USA 		FOUND
+Haleiwa, HI 96712, USA 		*
+NSW 2043, Australia 		FOUND
 
 
 
 
-2014 - January 6th - 1:59 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------
+2014 - January 6th - 1:59 AM ---------------------
 
 https://x.com/1231507051321
 
@@ -207,33 +271,48 @@ https://imgur.com/its-started-zN4h51m
 7 + 5 + 6 + 1 + 14 = 33	(Note: Not a prime number, but commonly found in past 3301, and 1033 decryptions)
 
 
+--------------------------------------------------
+2015 - July 28th - 1:35AM ------------------------
+
+https://x.com/1231507051321/status/625902337266204673
+https://pastebin.com/smRatr3D
+
+Some news organisations have recently claimed that "3301" is
+tied to the illegal activities of a group that has claimed
+responsibility for attacks against Planned Parenthood.
+ 
+We do not engage in illegal activities.  We are not associated 
+with this group in any way, nor do condone their use of our
+name, number, or symbolism.
+ 
+3301
+
+--------------------------------------------------
+2017 ---------------------------------------------
+
+2017 - Jan 8th		TheBraveZombies 	(13.9K subscribers)
+
+Cicada 3301 (All Clues and How They Were Solved)
+https://www.youtube.com/watch?v=svJF_FoSI9o
+3,758,684 views  
 
 
+2018 - May 19th		LEMMiNO 		(5.87M subscribers)
 
-
-
-
-
-
-
-2018 - May 19th
-
-LEMMiNO (5.87M subscribers)
+Cicada 3301: An Internet Mystery
 https://www.youtube.com/watch?v=I2O7blSSzpI
 40,158,924 views
 
 
-2018 - Nov 24th
+2018 - Nov 24th		DEFCONConference 	(393K subscribers)
 
-DEFCONConference (393K subscribers)
-Nox Populi 
-DEF CON 26 CRYPTO AND PRIVACY VILLAGE - Cicada What Puzzles Can Teach Us About Cryptography
+DEF CON 26 CRYPTO AND PRIVACY VILLAGE - Cicada What Puzzles Can Teach Us About Cryptography by Nox Populi
 https://www.youtube.com/watch?v=sVU4k2gRe_Y
 12,322 views
 
 
-2019 - Aug 14th 
-Great Big Story		(6.3M subscribers)
+2019 - Aug 14th 	Great Big Story		(6.3M subscribers)
+
 Cracking the Code of Cicada 3301| EPISODE 1 (unlisted)
 https://youtu.be/RatbYqc0-jE?list=PL2mziOCk6AUF1Nlz82lhMPhjf5EBA53eW
 4,824,983 views		KYLE'S ISSUES: 
@@ -241,40 +320,38 @@ https://youtu.be/RatbYqc0-jE?list=PL2mziOCk6AUF1Nlz82lhMPhjf5EBA53eW
 				- The image was called final.jpg, not image.jog. 
 				(I'm 30 seconds in and there's already two facts wrong.)
 
-2022 - April 22nd
 
-Decoding the Unknown 	(524K subscribers)
+2022 - April 22nd	Decoding the Unknown 	(524K subscribers)
+
 Cicada 3301: The Internet's Weirdest Mystery
 https://www.youtube.com/watch?v=5VweH8dQIRY
 1.5M views  
 
-2023 - August 17th
 
+2023 - August 17th	The Why Files 		(5.53M subscribers)
 
-The Why Files 		(5.53M subscribers)
 Solving Cicada 3301: Decoding the Internet's Greatest Mystery
 https://www.youtube.com/watch?v=3ZfKfkuYwyM
 4.5M views
 
-2023 - September 14th
 
-DEFCONConference 	(393K subscribers)
+2023 - September 14th	DEFCONConference 	(393K subscribers)
+
 Taiiwo, Artorias, Puck, TheClockworkBird
 https://www.youtube.com/watch?v=EU1ftYdZkkI
 DEF CON 31 War Stories - Cracking Cicada 3301
 16k views
 
 
-2024 - July 15th
+2024 - July 15th	The Official Channel 	(360K subscribers)
 
-The Official Channel 	(360K subscribers)
 Cicada 3301 | Red Thread
 https://www.youtube.com/watch?v=ED1PHiJmBvw
 600k views
 
-2025 - March 9th
 
-CicadaCast 		(541 subscribers)
+2025 - March 9th	CicadaCast 		(541 subscribers)
+
 Cicada 3301: Cracking The Liber Primus After 10 Years "56 out of 58 pages still unsolved"
 https://www.youtube.com/watch?v=Seej1Kq5c20
 18k views  
@@ -283,16 +360,14 @@ https://www.youtube.com/watch?v=Seej1Kq5c20
 			page (58.jpg) 128 characters 
 			
 
-2025 - October 3th
+2025 - October 3th	Sumsub 			(479K subscribers)
+			Nostalgia Nerd 		(582K subscribers)
 
-
-Sumsub (479K subscribers)
-Nostalgia Nerd (582K subscribers)
 Meet The Man That Solved Cicada 3301 Challenge!
 https://www.youtube.com/watch?v=Wt8rldAjzGQ
 11k views  
 
-2025 - January 22nd 
+2025 - January 22nd 	
 
 Gematria Primus 2026 by Kyle Popovich 
 https://github.com/MrKylePopovich/Cicada-3301-Chronology/blob/main/photos/cicada_3301_Gematria_Primus_2026.jpg
@@ -301,6 +376,7 @@ https://github.com/MrKylePopovich/Cicada-3301-Chronology/blob/main/photos/cicada
 	- Adds back the prime values back from the 2013 (original) Gematria Primus
 	- Adds Modulus 29 from Uncovering Cicada Wiki ("How the solved pages were solved")
 	- Adds Modulus Value for Atbash cipher results 
+
 
 ===== END OF LINE. ===============================
 ==================================================
