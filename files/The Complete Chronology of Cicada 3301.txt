@@ -17,8 +17,79 @@
 ==================================================
 ===== THE TIMELINE: ==============================
 
-2012-01-04	3301 allegedly posts [final.jpg] on 4chan (unverified/link missing?)
-		Text Extract = Caepg_03_imgur.com_m9sYK.jpg
+2012-01-04	January 4th	"Hello [...] Intelligent individuals [...] Good luck [...]"
+
+3301 allegedly posts [final.jpg] on 4chan (unverified/link missing?, but was/is known as the most popular anonymous place)
+[final.jpg] is named [1CcV1.jpg] but still works in OutGuess (does OutGuess stay on jpeg web conversions?)
+[final.jpg] first gives a clue, opening in a text editor = TIBERIVS CLAVDIVS CAESAR says "lxxt>33m2mqkyv2gsq3q=w]O2ntk"
+[final.jpg] first uses a Caesar Cipher: 4 shift = imgur.com/m9sYK.jpg (Decoy Photo/Clue)
+[final.jpg] first uses OutGuess: Book code + reddit.com/r/a2e7j6ic78h0j 
+3301 first uses an anagram for the reddit username CageThrottleUs = CharoletteGuest
+3301 (as u/CageThrottleUs) posts "Welcome" [KXLOP.jpg] giving = PGP Key ID 7A35090F via OutGuess 
+
+
+2012-01-07	January 7th	
+
+3301 uses an anagram again for the reddit username ImagoOnNib = Mabinogion 
+3301 (as u/ImagoOnNib/Mabinogion grows impatient "Problems?" 
+3301 first uses a Vigenère cipher, hiding the key in the reddit header (Maya Numerals) and description (Substution cipher) 
+3301 [final.jpg] first uses a Book Code: Mabinogion + Book code = Call us at us tele phone numBer two one four three nine oh nine six oh eight
+[final.jpg] first uses a landline phone number: (+1)2143909608 = 3301 x 506 x 503 [final.jpg] dimensions = 845145127.com
+[final.jpg] first uses a domain: 845145127.com = [cicada.jpg] 
+[cicada.jpg] uses OutGuess again to say: 
+
+	KYLE'S NOTES:
+	Seeing as it's been three days since the first post, 
+	and all these steps are linked, 
+	I assume 3301 is just sitting by the telephone waiting for someone to figure it out. 
+	This would explain the push to make their Mabinogion username, and the OutGuess saying "Key" for "Problems?".
+	This shows the reddit header, decription as the Vigenère cipher and posts as the books for the book code, 
+	was much harder and complicated than the simple phone call "3301 is one number, find the other two from the final.jpg" 
+	Not 3 days, but the same day solvers were able to figure it out, land on the website, OutGuess the Cicada.jpg and 
+	would end up making 3301 have to hurry up! (or was this planned all along?)
+	This shows that 3301 isn't great with pacing and incrementaion of risk and reward. 
+	This shows that 3301 want the solver to finish, giving multiple clues. 
+	I don't know who the "We" is that is looking for highly intelligent individuals. 
+	I don't beleive there is a prize, "a test" means you are being graded. 
+	"the road to finding us." again hints at multiple people. 
+	"We look forward to meeting the few that will make it all the way through." is very welcoming. 
+	"Good luck. 3301" is very challenging, motivational, mysterious, and hinting at a prime truth (1 and self). 
+	
+
+2012-01-09	January 9th 
+
+845145127.com updates to real-world co-ordinates (unverified photos, as they have OutGuess with PGP on them?)
+[cicada.jpg] 
+
+
+2012-01-11	January 11th 
+
+845145127.com first uses binary, updating the page to only to tabs and spaces:
+
+845145127.com changes to 127.0.0.1 and the previous IP (75.119.203.244) stopped responding to pings and TCP SYNs.
+
+
+
+
+
+
+2013		January 	"Hello again. Our serach for intelligent individuals now continues."
+
+366 days since the 2012 Cicada puzzle began. Nothing had happened in 11 months.
+
+Until the 5th of January 2013, when a second image was posted to /x/ and /b/ imageboards on 4chan. 
+There were three threads where 3301 posted 232.jpg on 4chan, two times on /b/ 23 hours apart(1,2) and once on /x/.
+
+
+Key points about the track is the initial "breath" sound, believed to be the sound of many cicadas and the tempo changes, beginning at approximately 135 bpm, accelerating to 145bpm, then slowing to 125bpm. This has led some to believe that the song has been slowed down by 5%. The only instruments used were a guitar acoustic and electric and an effect driven bass drum.
+The song is 2:47 long, or 167 seconds, which is prime. It is also a reversal of the name of the file: 761.mp3, and 761 is also prime.
+A draft spectral anlysis (http://www.anony.ws/i/2013/01/07/SE5OU.png) shows a constant hum at 15.4-16.1kHz, and empty notches under 500Hz starting from 1:56. A hexdump of the mp3 file revealed the following message:
+
+			KYLE'S NOTE: 
+			Try extending the song to 761 seconds! (3301 loves reversing and flipping numbers)
+				
+
+
 
 
 
@@ -250,7 +321,8 @@ Haleiwa, HI 96712, USA 		*
 NSW 2043, Australia 		FOUND
 
 
-
+Message 1 found in Arkansas (http://845145127.com/935691396441.jpg) and Miami (http://845145127.com/876873892385.jpg) images.
+Message 2 found in Warsaw (http://845145127.com/316744223127.jpg) and Sydney (http://845145127.com/162667212858.jpg) images.
 
 
 
@@ -258,9 +330,6 @@ cicada_3301_2012-01-09_final.jpg_03a_316744223127_Outguess
 
 	One message was a poem ("Agrippa" by William Gibson) and quickly discovered, 
 	the code was applied and this resulted in an onion location (sq6wmgv2zcsrix6t.onion)
-
-
-
 
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
@@ -304,6 +373,111 @@ Good luck.
 
 
 
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+In twenty-nine volumes, knowledge was once contained.
+How many lines of the code remained when the Mabinogion paused?
+Go that far in from the beginning and find my first name.
+
+1:29
+6:46
+the product of the first two primes
+2:37
+14:41
+17:3
+27:40
+the first prime
+2:33
+1:1
+7:45
+17:29
+21:31
+12:17
+the product of the first two primes
+22:42
+15:18
+24:33
+27:46
+12:29
+25:66
+7:47
+
+You've shared too much to this point.  We want the best,  
+not the followers.  Thus, the first few there will receive 
+the prize.
+
+Good luck.
+
+3301
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+iQIcBAEBAgAGBQJPB1luAAoJEBgfAeV6NQkP9oAP+gLu+FsRDf3aRcJtBkCOU2MX
+r/dagOTvCKWtuV+fedy0enWUZ+CbUjXOr98m9eq2z4iEGqKd3/MBXa+DM9f6YGUE
+jPum4wHtQDSJlZMazuYqJOVZGw5XmF25+9mRM6fe3H9RCiNDZpuXl3MzwdivYhcG
+B5hW14PcdHHteQf3eAUz+p+s06RDs+q1sNGa/rMQIx9QRe71EJwLMMkMfs81kfJC
+tCt21+8ud0Xup4tjUBwul7QCcH9bqKG7cnR1XWsDgdFP6a4x9Jl2/IUvp1cfeT7B
+YLS9W3lCM8thMemJr+ztQPZrpDlaLIitAT2L0B3f/k4co89v5X2I/toY8Z3Cdvoi
+hk0AdWzMy/XLDgkPnpEef/aFmnls53mqqe9xKAUQPMrI73hiJ+5UZWuJdzCpvt+F
+BjfQk15EJoUUW16K2+mBA1cSd+HJlnkslUTsjkq0E36XKChP+Cvbu/p6DLUMM2Xl
++n3iospCkkHR9QDcHzE4Rxg9A435yHqqJ/sL2MXG/CY8X4ec6U0/+UCIF9spuv8Y
+7w66D05pI2u9M/081L7Br0i0Mpdf9fDblO/6GksskccaPkMQ3MRtsL+p9o6Dnbir
+6Z2wH2Kw1Bf0Gfx4VcpHBikoWJ5blCc6tfvT+qXjVOZjWAL7DvReavSEmW1/fubN
+C3RWcjeI4QET2oKmV2NK
+=LWeJ
+
+Signed on 2012.01.06. 21:28 by Cicada 3301 (845145127) (Key ID: 0x7A35090F).
+The signature is valid and the certificate's validity is fully trusted.
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------
+2014 - January 6th - 1:59 AM ---------------------
+
+
+
+
+
+Hello again. Our search for intelligent
+individuals now continues.
+
+The first clue is hidden within this image.
+
+Find it, and it will lead you on the road to
+finding us. We look forward to meeting the
+few that will make it all the way through.
+
+Good luck
+
+3301
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -319,12 +493,110 @@ Good luck.
 
 https://x.com/1231507051321
 
-1231507051321 @1231507051321
-https://imgur.com/its-started-zN4h51m
+	7:59am - 6 Jan 14
+	7 5 9    6  1  1 4  
+	7 + 5 + 6 + 1 + 14 = 33	
+	(Note: Not a prime number, 
+	but commonly found in past 3301, and 1033 decryptions)
 
-7:59am - 6 Jan 14
-7 5 9    6  1  1 4  
-7 + 5 + 6 + 1 + 14 = 33	(Note: Not a prime number, but commonly found in past 3301, and 1033 decryptions)
+		1231507051321 @1231507051321
+		https://imgur.com/its-started-zN4h51m
+
+
+		Hello.
+
+		Epihany is upon you. Your pilgrimage has
+		begun. Enlightenment awaits.
+
+		Good luck. 
+
+		3301
+
+			Outguess:
+
+			-----BEGIN PGP SIGNED MESSAGE-----
+			Hash: SHA1
+
+
+			The work of a private man
+			who wished to transcend,
+			He trusted himself,
+			to produce from within.
+
+
+			1:2:3:1
+			3:3:13:5
+			45:5:2:3
+			20:3:20:5
+			8:3:8:6
+			48:5:14:2
+			21:13:4:1
+			25:1:7:4
+			15:9:3:4
+			1:1:16:3
+			4:3:3:1
+			8:3:26:4
+			47:3:3:5
+			3
+			13:2:5:4
+			1:4:16:4
+			.
+			o
+			n
+			i
+			o
+			n
+
+			Good luck.
+
+			3301
+
+				Riddle = book "Self-Reliance" by Ralph Waldo Emerson 
+				(https://math.dartmouth.edu/~doyle/docs/self/self.pdf).
+
+					Book code (paragraph:sentence:word:letter) = auqgnxjtvdbll3pv.onion
+											"The First Onion"
+
+"The First Onion"
+auqgnxjtvdbll3pv.onion
+<html><head><title>For Every Thing That Lives Is Holy</title><body><img src="1033.jpg" /></body></html>
+
+	[1033.jpg] Outguess: 
+	
+	Welcome.
+
+	Good luck.
+
+	3301
+
+	e = 65537
+	n = 75579125746085351644267182920580212556413102071876330957950694457000592\
+		10248050757270234679993673844203148013173091173786572116639
+
+	- -----BEGIN COMPRESSED RSA ENCRYPTED MESSAGE-----
+	Version: 1.99
+	Scheme: Crypt::RSA::ES::OAEP
+
+	eJwBswBM/zEwADE2MgBDeXBoZXJ0ZXh0LE2jxJS1EzMc80kOK+hra1GKnXgQKQgVitIy8NgA7kxn
+	2u8jNQDvlu0uymNNiu6XVCCn66axGH0IZ9w4Af3K/yRgjObsfA1Q7QqpXNALJ9FFPgYl5rh07cBP
+	M9kbSH6DynU/5cYgQod2KymjWcIvKx3FkjV4UOGakDnBf1eQp1uwvn3KxDVwTyzPqbMnZvOA06Ec
+	AfKtyz1hEK/UBXkeMeVrnV5SQQ==
+	=yTUshDMKN65aPaKAR0OU8g==
+	- -----END COMPRESSED RSA ENCRYPTED MESSAGE-----
+
+		RSA decryption: cu343l33nqaekrnw.onion
+				  "The Second Onion"
+
+"The Second Onion"
+cu343l33nqaekrnw.onion
+
+<!--Patience is a virtue-->
+634292ba49fe336edada779a34054a335c2ec[... string slowly grows for 23 (prime) hours]
+Every few minutes, two characters were appended to the end of the string
+
+An hour after the string finished growing, at 05:31:40 GMT the document changed. 
+The old 512-character code was gone, along with the HTML comment. In its place was the following document:
+
 
 
 --------------------------------------------------
