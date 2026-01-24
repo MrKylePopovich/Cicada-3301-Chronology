@@ -368,8 +368,11 @@ the prize.
 Good luck.
  
 3301
+
 -----BEGIN PGP SIGNATURE-----
-[...]
+(signature removed for brevity)
+-----END PGP SIGNATURE-----
+
 
 
 
@@ -411,25 +414,12 @@ Good luck.
 
 3301
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v1.4.11 (GNU/Linux)
-
-iQIcBAEBAgAGBQJPB1luAAoJEBgfAeV6NQkP9oAP+gLu+FsRDf3aRcJtBkCOU2MX
-r/dagOTvCKWtuV+fedy0enWUZ+CbUjXOr98m9eq2z4iEGqKd3/MBXa+DM9f6YGUE
-jPum4wHtQDSJlZMazuYqJOVZGw5XmF25+9mRM6fe3H9RCiNDZpuXl3MzwdivYhcG
-B5hW14PcdHHteQf3eAUz+p+s06RDs+q1sNGa/rMQIx9QRe71EJwLMMkMfs81kfJC
-tCt21+8ud0Xup4tjUBwul7QCcH9bqKG7cnR1XWsDgdFP6a4x9Jl2/IUvp1cfeT7B
-YLS9W3lCM8thMemJr+ztQPZrpDlaLIitAT2L0B3f/k4co89v5X2I/toY8Z3Cdvoi
-hk0AdWzMy/XLDgkPnpEef/aFmnls53mqqe9xKAUQPMrI73hiJ+5UZWuJdzCpvt+F
-BjfQk15EJoUUW16K2+mBA1cSd+HJlnkslUTsjkq0E36XKChP+Cvbu/p6DLUMM2Xl
-+n3iospCkkHR9QDcHzE4Rxg9A435yHqqJ/sL2MXG/CY8X4ec6U0/+UCIF9spuv8Y
-7w66D05pI2u9M/081L7Br0i0Mpdf9fDblO/6GksskccaPkMQ3MRtsL+p9o6Dnbir
-6Z2wH2Kw1Bf0Gfx4VcpHBikoWJ5blCc6tfvT+qXjVOZjWAL7DvReavSEmW1/fubN
-C3RWcjeI4QET2oKmV2NK
-=LWeJ
+(signature removed for brevity)
 
 Signed on 2012.01.06. 21:28 by Cicada 3301 (845145127) (Key ID: 0x7A35090F).
 The signature is valid and the certificate's validity is fully trusted.
 
+-----END PGP SIGNATURE-----
 
 
 
@@ -550,6 +540,8 @@ https://x.com/1231507051321
 			Good luck.
 
 			3301
+			
+			-----END PGP SIGNATURE-----
 
 				Riddle = book "Self-Reliance" by Ralph Waldo Emerson 
 				(https://math.dartmouth.edu/~doyle/docs/self/self.pdf).
@@ -559,43 +551,225 @@ https://x.com/1231507051321
 
 "The First Onion"
 auqgnxjtvdbll3pv.onion
+
 <html><head><title>For Every Thing That Lives Is Holy</title><body><img src="1033.jpg" /></body></html>
+
+	[1033.jpg] Details: 
+	https://static.wikia.nocookie.net/uncovering-cicada/images/9/93/1033.jpg/revision/latest?cb=20140106081528
 
 	[1033.jpg] Outguess: 
 	
-	Welcome.
+		Welcome.
 
-	Good luck.
+		Good luck.
 
-	3301
+		3301
 
-	e = 65537
-	n = 75579125746085351644267182920580212556413102071876330957950694457000592\
-		10248050757270234679993673844203148013173091173786572116639
+		e = 65537
+		n = 75579125746085351644267182920580212556413102071876330957950694457000592\
+			10248050757270234679993673844203148013173091173786572116639
 
-	- -----BEGIN COMPRESSED RSA ENCRYPTED MESSAGE-----
-	Version: 1.99
-	Scheme: Crypt::RSA::ES::OAEP
+		- -----BEGIN COMPRESSED RSA ENCRYPTED MESSAGE-----
+		Version: 1.99
+		Scheme: Crypt::RSA::ES::OAEP
 
-	eJwBswBM/zEwADE2MgBDeXBoZXJ0ZXh0LE2jxJS1EzMc80kOK+hra1GKnXgQKQgVitIy8NgA7kxn
-	2u8jNQDvlu0uymNNiu6XVCCn66axGH0IZ9w4Af3K/yRgjObsfA1Q7QqpXNALJ9FFPgYl5rh07cBP
-	M9kbSH6DynU/5cYgQod2KymjWcIvKx3FkjV4UOGakDnBf1eQp1uwvn3KxDVwTyzPqbMnZvOA06Ec
-	AfKtyz1hEK/UBXkeMeVrnV5SQQ==
-	=yTUshDMKN65aPaKAR0OU8g==
-	- -----END COMPRESSED RSA ENCRYPTED MESSAGE-----
+		eJwBswBM/zEwADE2MgBDeXBoZXJ0ZXh0LE2jxJS1EzMc80kOK+hra1GKnXgQKQgVitIy8NgA7kxn
+		2u8jNQDvlu0uymNNiu6XVCCn66axGH0IZ9w4Af3K/yRgjObsfA1Q7QqpXNALJ9FFPgYl5rh07cBP
+		M9kbSH6DynU/5cYgQod2KymjWcIvKx3FkjV4UOGakDnBf1eQp1uwvn3KxDVwTyzPqbMnZvOA06Ec
+		AfKtyz1hEK/UBXkeMeVrnV5SQQ==
+		=yTUshDMKN65aPaKAR0OU8g==
+		- -----END COMPRESSED RSA ENCRYPTED MESSAGE-----
 
-		RSA decryption: cu343l33nqaekrnw.onion
-				  "The Second Onion"
+
+			N used to encrypt this message is far smaller than 2048 or 4096 bits, only being 432 bits (130 decimal digits) long.
+			A small group of people decided that a distributed approach would be the only feasible option. 
+			Even a 432 bit key requires an enormous computational effort not suited for a single processor. 
+			We agreed on [cado-nfs], a program to obtain the prime factors of large integers using a network of machines. 					After about 8 hours of debugging, fixing, patching and testing, 
+			as well as additional 9 hours of distributively working on the prime, the results were in:		
+
+				p = 97513779050322159297664671238670850085661086043266591739338007321
+				q = 77506098606928780021829964781695212837195959082370473820509360759
+
+				Result:		Scheme: Crypt::RSA::ES::OAEP
+			
+					The programming language Perl uses double colons to achieve modularization. 
+					Therefore, we can safely conclude that a Perl program was used to encrypt this message. 
+					A decryption program in Perl using the found p and q values is available here.
+					(https://uncovering-cicada.fandom.com/wiki/Program_to_decrypt_RSA_message)
+
+						RSA decryption: cu343l33nqaekrnw.onion
+				 				  "The Second Onion"
 
 "The Second Onion"
 cu343l33nqaekrnw.onion
 
 <!--Patience is a virtue-->
 634292ba49fe336edada779a34054a335c2ec[... string slowly grows for 23 (prime) hours]
-Every few minutes, two characters were appended to the end of the string
 
-An hour after the string finished growing, at 05:31:40 GMT the document changed. 
-The old 512-character code was gone, along with the HTML comment. In its place was the following document:
+	Every few minutes, two characters were appended to the end of the string. 
+	We assume it is hexadecimal.
+
+<!--Patience is a virtue-->
+634292ba49fe336edada779a34054a335c2ec12c8bbaed4b92dcc05efe98f76abffdc2389bdb9de2cf20c009acdc1945ab095a52609a5c219afd5f3b3edf10fcb25950666dfe8d8c433cd10c0b4c72efdfe12c6270d5cfde291f9cf0d73cb1211140136e4057380c963d70c76948d9cf6775960cf98fbafa435c44015c5959837a0f8d9f46e094f27c5797b7f8ab49bf28fa674d2ad2f726e197839956921dab29724cd48e1a81fc9bab3565f7513e3e368cd0327b47cf595afebb78d6b5bca92ba021cd6734f4362a0b341f359157173b53d49ea5dff5889d2c9de6b0d7e8c615286ce596bfa83f50b6eeabd153aaf50cd75f39929ba11fb0f8e8d611442846
+
+		An hour after the 512 characters long string finished growing, at 05:31:40 GMT the document changed. 
+		The old 512-character code was gone, along with the HTML comment. In its place was the following document:
+
+			<!--761-->
+			(https://web.archive.org/web/20140111205628/https://infotomb.com/oyfhl.txt)
+
+				The new string is 3641299(?) characters long. 
+				It contains a significant amount of repeated text.
+
+					Convert the string into its binary representation
+					Flip all the bits (i.e. 0 becomes 1, 1 becomes 0) [Note: this is equivalent to XOR 111111]
+					Looking at that XOR'd binary string, notice the first two bytes are 0xFF 0xD8, a JPEG image.
+					Later in the string, discover the same byte sequence again, the presence of more than one JPEG. 
+					Analyse the rest of the stringn, discover a total of three JPEG images. 
+					The third JPEG image is in reverse order, and needs to be un-reversed.
+					Clarification, the order was this: .... = JPEG data, [ ] = one complete image:
+					[0xFF 0xD8....][0xFF 0xD8....][....0xD8 0xFF]
+					After transforming the bytes into their proper JPEG format:
+						
+						dd if=onioninvert.bin of=onion1.jpg bs=1 skip=0 count=168876
+						dd if=onioninvert.bin of=onion2.jpg bs=1 skip=168876 count=1476614
+						dd if=onioninvert.bin of=onion3rev.jpg bs=1 skip=1645490 count=175159
+						
+						Obtained the following three images:
+
+						onion1.jpg "Liber Primus" aka 00.jpg	OutGuess: https://pastebin.com/q5zsjs0m
+						onion2.jpg "Intus" aka 01.jpg		OutGuess: https://pastebin.com/1rg5k5wS	
+						onion3rev.jpg "Runes" aka 02.jpg	OutGuess: https://pastebin.com/bUDQkQxq	
+	
+						XOR on each outguess contained: 
+						
+
+						-----BEGIN PGP SIGNED MESSAGE-----
+						Hash: SHA1
+
+
+
+						IDGTK UMLOO ARWOE RTHIS UTETL HUTIA TSLLO 
+						UIMNI TELNJ 7TFYV OIUAU SNOCO 5JI4M EODZZ 
+
+						Good luck.
+
+						3301
+
+
+						(signature removed for brevity)
+						-----END PGP SIGNATURE-----
+
+							After trial and error analysis, 
+							this ciphertext was created using a simple column transposition cipher. 
+							(https://tholman.com/other/transposition/)
+							Enter: IDGTKUMLOOARWOERTHISUTETLHUTIATSLLOUIMNITELNJ7TFYVOIUAUSNOCO5JI4MEODZZ 
+							Key Length: 14 
+							Then it will arrange the ciphertext into 14 columns like so:
+
+							0 1 2 3 4 5 6 7 8 9 10 11 12 13
+							I D G T K U M L O O A  R  W  O
+							E R T H I S U T E T L  H  U  T
+							I A T S L L O U I M N  I  T  E
+							L N J 7 T F Y V O I U  A  U  S
+							N O C O 5 J I 4 M E O  D  Z  Z
+ 
+							And reordering the columns like so:
+
+							2 8 9 1	12 13 11 4 5 7 3 0 6 10
+							G O O D	W  O  R  K U L T I M A
+							T E T R	U  T  H	 I S T H E U L
+							T I M A	T  E  I  L L U S I O N
+							J O I N	U  S  A  T F V 7 L Y U
+							C M E O	Z  Z  D  5 J 4 O N I O
+
+							A message is obtained:
+
+							GOOD WORK
+							ULTIMATE TRUTH IS THE ULTIMATE ILLUSION 
+							JOIN US AT FV7LYUCMEOZZD5J4ONIO
+
+							Assuming the final N was omitted to fit the bounds of the column transposition cipher, 
+							Apply formatting and the Tor address is obtained: fv7lyucmeozzd5j4.onion
+											  		    "The Third Onion"
+
+"The Third Onion"
+fv7lyucmeozzd5j4.onion
+
+A blank page. 
+The page remained blank for a short time and then changed to the following document:
+
+	<!--1033-->
+	87de5b7fa2
+
+		As with the RSA onion, the string slowly grew over time. 
+		Two new characters (1 byte, 4 bits) added at varying intervals. Some timing data was collected for further analysis.
+
+In the meantime, a solver ran the tool DirBuster against the site and discovered a misconfiguration of the backend Apache server. 
+The server was leaking a system status page. 
+Whether this was intentional is unknown. 
+After the page was discovered, it appears 3301 was alerted because the content changed. 
+
+	Appended to the end of the server status was yet another very long string. 
+	This string was found to contain two image files in a similar ordering as the RSA onion, 
+	except that there was some data between them (OOB or Out Of Bounds data):
+
+	[0xFF 0xD8..............................] [Data in between JPGs] [..............................0xD8 0xFF]
+
+		After building the first JPG from the hex:
+
+		xxd -p -r < server-status.hex > server-status.jpg
+
+		One obtains the image [onion_3_v3.jpg] aka [05.jpg] with runes, the Cicada image, and a magic prime number box.
+		Doing the same for the reversed copy of the second JPG yields the same image as the first, shown -- except for that OOB data.
+
+		Comparing the first and second images
+
+			cmp -l server-status.jpg rev.server-status.jpg
+		
+				one obtains the OOB data:
+
+				a02373230202020202833313020202020213433302020202021333130202020202135313a06363
+				330202020202939313020202020203331302020202020323330202020202028313a06323230202
+				020202534323020202020202139302020202025343230202020202632323a08313020202020203
+				2333020202020203331302020202029393130202020202636333a0135313020202020213331302
+				02020202134333020202020283331302020202022373230a0a
+
+				Note that all of these bytes are within the printable range of ASCII characters, 
+				and many of them appear to be ASCII for digits (e.g. 0x30, 0x39).
+
+					Converting this string to binary: 	xxd -b oob.hex oob.bin
+					and reversing that: 			xxd -r oob.bin oob-rev.bin
+					we obtain:
+
+					272     138     341     131     151
+
+					366     199     130     320     18
+
+					226     245     91      245     226
+
+					18      320     130     199     366
+
+					151     131     341     138     272
+
+					Among other things, this is a magic square whose magic number is -- you guessed it -- 1033.
+
+							
+
+
+
+
+<!--1033-->
+87de5b7fa26ab85d2256c453e7f5bc3ac7f25ee743297817febd7741ededf07ca0c7e8b1788ea4131441a8f71c63943d8b56aea6a45159e2f59f9a194af23eaabf9de0f3123c041c882d5b7e03e17ac49be67cef29fbc7786e3bda321a176498835f6198ef22e81c30d44281cd217f7a46f58c84dd7b29b941403ecd75c0c735d20266121f875aa8dec28f32fc153b1393e143fc71616945eea3c10d6820bd631cf775cf3c1f27925b4a2da655f783f7616f3359b23cff6fb5cb69bcb745c55dff439f7eb6a4094bd302b65a84360a62f94c8b010250fcc431c190d6ed8cc8a3bfce37dddb24b93f502ad83c5fa21923189d8be7a6127c4105fcf0e5275286f2
+
+
+Applying the Gematria Primus from the 2013 puzzle to 'Patience is a virtue' and summing the result = 761.
+
+
+
+
+
+
 
 
 
